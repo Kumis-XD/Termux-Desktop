@@ -46,6 +46,8 @@ Desktop
         Name = Desktop
 
 # Screenshot
+1. Lxqt-Desktop
+
 
 
 
