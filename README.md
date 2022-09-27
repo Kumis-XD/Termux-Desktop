@@ -1,4 +1,4 @@
- •Run in Termux
+# Module
 
     pkg update && pkg upgrade
 
@@ -11,7 +11,7 @@
     bash Desktop.sh
 
 
-how to activate termux desktop in VNC VIEWER
+# how to activate termux desktop in VNC VIEWER
 
 1) step one run VNC VIEWER or you can type vncserver in your termux
 
@@ -40,11 +40,11 @@ that you have installed, click the add icon in the lower right
 corner, enter the ip and port then fill in the name Computer or
 Desktop
 
-example :
+# example :
 
         Address = localhost:1
         Name = Desktop
 
 
-	__###Enjoy###__
-			__By Kumis-XD__
+__###Enjoy###__
+__By Kumis-XD__
