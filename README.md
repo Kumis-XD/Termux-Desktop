@@ -47,7 +47,10 @@ Desktop
 
 # Screenshot
 1. Lxqt-Desktop
-
+![wiki-and-about](https://user-images.githubusercontent.com/114278627/192557871-abdaf2bd-bd48-478d-bb1e-4c4c9d31ef68.png)
+![neofetch-and-menu](https://user-images.githubusercontent.com/114278627/192557727-1b1112d9-90c8-42db-aced-d6834da06b3e.png)
+![text-editor](https://user-images.githubusercontent.com/114278627/192557531-c05c2ea1-e160-457b-b196-a4af3294f8af.png)
+![pcmanfm-qt_and_qterminal](https://user-images.githubusercontent.com/114278627/192557455-335907f6-544a-43d5-9036-a283d74fcb90.png)
 
 
 
