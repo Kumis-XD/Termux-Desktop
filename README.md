@@ -52,7 +52,10 @@ Desktop
 ![text-editor](https://user-images.githubusercontent.com/114278627/192557531-c05c2ea1-e160-457b-b196-a4af3294f8af.png)
 ![pcmanfm-qt_and_qterminal](https://user-images.githubusercontent.com/114278627/192557455-335907f6-544a-43d5-9036-a283d74fcb90.png)
 
-
+2. Mate-Desktop
+![136737365-5d7d55d0-9d1e-4e6e-8003-aa116222ec45](https://user-images.githubusercontent.com/114278627/192559787-cb4419c5-ae8c-4d5c-8de4-9ccec8859047.png)
+3. Xfce-Desktop
+![75316470-74b5ee80-588b-11ea-8454-4fd4c0aceba7](https://user-images.githubusercontent.com/114278627/192559778-22e52e15-87fd-4837-acbc-3b6f114c3274.png)
 
 __###Enjoy###__
 __By Kumis-XD__
